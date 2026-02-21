@@ -21,7 +21,7 @@ This project analyzes customer shopping behavior to uncover insights related to 
 1. Python (Pandas, NumPy) – Data cleaning & preprocessing
 2. Jupyter Notebook – Data transformation & feature engineering
 3. SQL – Business queries and revenue analysis
-4. Data Visualization Tool (Power BI / Tableau / Matplotlib / etc.) – Dashboard creation
+4. Data Visualization Tool (Power BI) – Dashboard creation
 5. Git & GitHub – Version control and project hosting
 
 ## Methodology
