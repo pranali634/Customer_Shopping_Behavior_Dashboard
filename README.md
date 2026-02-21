@@ -82,9 +82,18 @@ Dynamic filters (Category, Gender, Subscription Status, Location)
 ![KPI Section](Images/KPI_Section.png) 
 
 ### Charts & Distribution 
-![Charts Overview](Images/Charts_Overview.png)
+![Charts Section](Images/Charts_Section.png)
 
 ### Slicers
 ![Slicers](Images/Slicers.png) 
 
+## Future Improvements
+1. Add customer lifetime value (CLV) analysis
+2. Build predictive sales forecasting model
+3. Deploy dashboard to web
+4. Automate ETL pipeline
+5. Add real-time data integration
 
+Author
+Pranali Prakash Ranjane
+Data Analyst | SQL | Python | Data Visualization
