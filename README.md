@@ -75,4 +75,16 @@ Dynamic filters (Category, Gender, Subscription Status, Location)
 5. Digital payment methods dominate customer preferences
 
 ## Dashboard Preview
+### Overall Dashboard
+![Dashboard Overview](Images/Dashboard_Overview.png)
+
+### KPI Section
+![KPI Section](Images/KPI_Section.png) 
+
+### Charts & Distribution 
+![Charts Overview](Images/Charts_Overview.png)
+
+### Slicers
+![Slicers](Images/Slicers.png) 
+
 
