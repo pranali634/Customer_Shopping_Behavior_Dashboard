@@ -67,4 +67,12 @@ Subscription distribution
 Customer preferred payment methods
 Dynamic filters (Category, Gender, Subscription Status, Location)
 
-## 
+## Key Insights 
+1. Clothing category generates the highest revenue
+2. Male customers contribute a higher percentage of total spending
+3. Majority of customers are non-subscribers
+4. Revenue varies significantly across seasons
+5. Digital payment methods dominate customer preferences
+
+## Dashboard Preview
+
